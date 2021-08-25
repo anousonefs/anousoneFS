@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! i'm Anousone WORLAKOUMMAN
+## i'm software developer from laos
+# I am interested in, write about, and develop (open source) software solutions using Python, Go, Flutter, Vuejs, Arduino, ...
 
 <!--
 **anousoneFS/anousoneFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
