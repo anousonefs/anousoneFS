@@ -1,6 +1,6 @@
 ### Hey! i'm Anousone WORLAKOUMMAN
 ### i'm software developer from laos
-[my facebook account](https://www.facebook.com/profile.php?viewas=100000686899395&id=100009675692617)
+[facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=100009675692617)
 
 <!--
 **anousoneFS/anousoneFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
