@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anousoneFS&theme=radical&layout=compact)](https://github.com/anousoneFS/github-readme-stats)
+
+![Anousone GitHub stats](https://github-readme-stats.vercel.app/api?username=anousoneFS&show_icons=true&theme=radical)
