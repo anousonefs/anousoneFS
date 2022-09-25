@@ -1,6 +1,6 @@
 ### Hey! i'm Anousone WORLAKOUMMAN
 ### i'm software developer from laos
-Reactjs, Golang, Dotnet <br>
+Reactjs, Golang <br>
 [facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=100009675692617)
 
 <!--
